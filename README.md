@@ -1,2 +1,2 @@
 # NCExtension
-Simple iOS Notification Content Extensiom
+Simple iOS Notification Content Extension
